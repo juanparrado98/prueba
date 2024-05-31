@@ -1,2 +1,9 @@
 # prueba
 repositorio de prueba 
+- 👋 Hi, I’m @juanparrado98
+- 👀 I’m interested in support for my development
+- 🌱 I’m currently learning react,angularand node.js
+- 💞️ I’m looking to collaborate on development
+- 📫 How to reach me my number is 316...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
